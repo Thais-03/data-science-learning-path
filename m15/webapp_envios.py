@@ -1,6 +1,5 @@
 # Importar bibliotecas de terceiros
-import numpy as np
-import matplotlib.pyplot as plt
+import pandas as pd
 import streamlit as st
 
 # Importar pacotes específicos de bibliotecas
